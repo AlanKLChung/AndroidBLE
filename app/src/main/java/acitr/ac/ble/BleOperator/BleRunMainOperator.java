@@ -1,4 +1,7 @@
 package acitr.ac.ble.BleOperator;
 
-public class BleRunMainOperator {
+import android.app.ListActivity;
+
+public abstract class BleRunMainOperator extends ListActivity {
+
 }
